@@ -1,0 +1,39 @@
+{
+  "fonte": "Chicago Food Inspections (data.cityofchicago.org, dataset 4ijn-s7e5)",
+  "url_original": "https://data.cityofchicago.org/api/views/4ijn-s7e5/rows.csv?accessType=DOWNLOAD",
+  "extracao": "2026-09-24",
+  "baixado_em": "2026-09-24T13:39:27",
+  "linhas": 315963,
+  "colunas": 17,
+  "nomes_colunas": [
+    "Inspection ID",
+    "DBA Name",
+    "AKA Name",
+    "License #",
+    "Facility Type",
+    "Risk",
+    "Address",
+    "City",
+    "State",
+    "Zip",
+    "Inspection Date",
+    "Inspection Type",
+    "Results",
+    "Violations",
+    "Latitude",
+    "Longitude",
+    "Location"
+  ],
+  "arquivos": {
+    "csv": {
+      "nome": "food_inspections_2026-09-24.csv",
+      "bytes": 346876895,
+      "sha256": "71d403fc1ac6fdcbe6e9f6ec79182c4ee0bb203df83e7d998d16b3b68dd47e3a"
+    },
+    "csv_gz": {
+      "nome": "food_inspections_2026-09-24.csv.gz",
+      "bytes": 76199625,
+      "sha256": "abea4241b727af9ca215234fc271791e28b6c3a3e70e372dc3bb7f48ecc9ad61"
+    }
+  }
+}
